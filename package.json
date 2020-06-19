@@ -15,7 +15,7 @@
     "url": "https://github.com/nsmedira/how-to-npm/issues"
   },
   "homepage": "https://github.com/nsmedira/how-to-npm#readme",
-  "description": "",
+  "description": "Package description",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   }
